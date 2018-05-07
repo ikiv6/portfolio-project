@@ -5,4 +5,4 @@
 Steps to work :
 -download 
 -unarchive 
--open indix
+-open index
